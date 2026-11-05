@@ -1,8 +1,9 @@
 ---
-name: 工程手册 Typst 风格
+name: AutoText
 description: >-
   用本风格写中文工程解读/技术手册 PDF 时用：Typst 青绿蓝橙配色、初学者导读、证据边界、列举→分项+报文/表格、陷阱与优化建议、封面预览与
-  NOTES 交付。
+  NOTES 交付。在 Agent 聊天中输入 /AutoText 显式调用。
+disable-model-invocation: true
 ---
 # 工程手册 Typst 风格
 
